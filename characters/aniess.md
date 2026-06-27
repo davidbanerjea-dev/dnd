@@ -5,7 +5,7 @@
 
 ## Basic Information
 
-**Race:** Yuan-ti (transformed — see backstory)
+**Race:**  Yuan-ti (transformed — see backstory)
 **Class:** Rogue / Cleric
 **Player:** Greg
 **Affiliation:** The Order of the Emplere Cnihtas — the crusader order of the religion of Sunne, the dominant religion of Kuru
@@ -17,7 +17,7 @@
 
 Aniess was an orphaned elf — or believes she was. She has fragmented memories of scrounging and thieving on the streets as a child. She does not remember much before the church took her in.
 
-The Order of the Emplere Cnihtas found her as a street urchin and recruited her alongside others. She was trained as a warrior and assassin — part of a covert intelligence network within the Order known only to the Warforged leadership. The acolytes who fill out the Order's public ranks do not know this arm exists.
+The Order of the Emplere Cnihtas found her as a street urchin and recruited her alongside others. She was trained in the arts of the assassin — part of a covert intelligence network within the Order known only to the Warforged leadership. The acolytes who fill out the Order's public ranks do not know this arm exists.
 
 The Order performed a ritual on Aniess and others in her cohort, merging them with other beings to grant them enhanced capabilities. Aniess was merged with a snake. She became Yuan-ti — half elf, half serpent — gaining strong resistance to magic and other features. She does not remember much of the ritual itself.
 
@@ -40,15 +40,15 @@ This is her first mission outside the compound.
 
 ## Known NPCs from Aniess's Past
 
-**Warforged Trainer** — [PLACEHOLDER NAME] — secretly led the covert sect. One of the two Warforged Aniess has had the most interaction with.
+**Warforged Trainer** — Syr Amora — secretly led the covert sect. One of the two Warforged Aniess has had the most interaction with (derived from Sir Lamorak of the Arthur's Knights of the round table.
 
-**Warforged Handler** — [PLACEHOLDER NAME] — the other primary Warforged figure in her life.
+**Warforged Handler** — Syr Aret — the other primary Warforged figure in her life (derived from Sir Gareth of Arthurs Knights of the round table).
 
 **Beartholomew** — a bear-infused being, Echo Knight Fighter. Friendly relationship with Aniess. Details TBD.
 
 **Olora** — a skunk-infused Orc, Hollow Warden Ranger. Rival/enemy relationship with Aniess. The rivalry stems from a love triangle: Olora liked Dillon, Dillon liked Aniess, Aniess had no particular feelings either way and didn't notice she was part of a triangle at all.
 
-**Dillon** — an armadillo-infused human, Noble Genie Paladin. Fellow acolyte. No strong relationship with Aniess beyond shared training.
+**Dillon** — an armadillo-infused human, Noble Genie Paladin. No strong relationship with Aniess beyond shared training.
 
 ---
 
