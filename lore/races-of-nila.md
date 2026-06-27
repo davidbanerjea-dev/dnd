@@ -9,7 +9,7 @@ clean map match yet — see the note at the bottom.*
 | Race | Residency | Key Notes |
 |---|---|---|
 | Human | Inhabit Kuru, Kalikhat, Noku Kurunatuka and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | Found across Nila in all types of roles. No defining history/traits/etc. |
-| Dwarf | Primarily inhabit Suartleheim and Kalikhat, but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | Found across Nila and especially in areas where mining is found. |
+| Dwarf | Primarily inhabit Suartleheim and Kalikhat (Duergar), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | Found across Nila and especially in areas where mining is found. |
 | Elf | Inhabit Kuru, Kalikhat, Noku Kurunatuka and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | |
 | Half-Elf | Inhabit Kuru, Kalikhat, Noku Kurunatuka and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | |
 | Orc | Inhabit Musleheim. | |
