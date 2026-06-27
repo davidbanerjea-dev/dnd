@@ -39,12 +39,12 @@ table intends.
 
 ## Suspicion at the city gate
 
-The party came away suspicious of the **guides at the city gate** — that the
+The party came away suspicious of the **guards at the city gate** — that the
 people who pointed them toward the Valley aren't the neutral locals they
 seem.
 
 - The party's working theory is that the guides answer to **Preem**. That's
-  *wrong* — but it's a productive wrong. **The guides are actually being
+  *wrong* — but it's a productive wrong. **The guards are actually being
   bribed by the rat man** (the creature that ambushed the party outside
   Preem's tower in Session 1). So the party has correctly sensed they're
   being watched/handled, but wrongly pinned it on their patron instead of on
